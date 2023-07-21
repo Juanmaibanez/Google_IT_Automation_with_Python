@@ -1,6 +1,6 @@
-**Coding skills**
+## Coding skills
 
-**Skill Group 1**
+## Skill Group 1
 
 * Use a **for** loop to modify elements of a list.
 
@@ -45,7 +45,7 @@ print(updated_years)
 # Should print ["January 2024", "May 2025", "April 2024", "August 2024", "September 2025", "December 2024"]
 ```
 
-**Skill Group 2**
+## Skill Group 2
 
 * Use a list comprehension to return values
 
@@ -65,7 +65,7 @@ print(squares(1, 5))  # Should print [1, 4, 9, 16, 25]
 print(squares(0, 10)) # Should print [0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 ```
 
-**Skill Group 3**
+## Skill Group 3
 
 * Use the **string[index]** method within a list comprehension.  
 
@@ -94,7 +94,7 @@ updated_years = [year.replace("2023","2024") if year[-4:] == "2023" else year fo
 print(updated_years) 
 # Should print ["January 2024", "May 2025", "April 2024", "August 2024", "September 2025", "December 2024"]
 ```
-**Skill Group 4**
+## Skill Group 4
 
 * Use the **string.split()** method to separate a string into a list of individual words.
 
@@ -139,7 +139,7 @@ print(change_string("1one 2two 3three 4four 5five"))
 # Should print "one-1 two-2 three-3 four-4 five-5"  
 ```
 
- **Skill Group 5**
+ ## Skill Group 5
 
  * Use the **string.join()** method to concatenate a string that provides a list name and its elements  
 
