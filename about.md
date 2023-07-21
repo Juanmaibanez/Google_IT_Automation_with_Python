@@ -14,9 +14,9 @@
 
 **Modules**
 
-    ·Hello Python!
+    <details><Sumary>·Hello Python!</sumary>
         
-        In this module we’ll introduce you to the Coursera platform and the course format. Then, we’ll dive into the basics of programming languages and syntax, as well as automation using scripting. We’ll also introduce you to the Python programming language and some of the benefits it offers. Last up, we’ll cover some basic functions and keywords of the language, along with some arithmetic operations.
+        <p>In this module we’ll introduce you to the Coursera platform and the course format. Then, we’ll dive into the basics of programming languages and syntax, as well as automation using scripting. We’ll also introduce you to the Python programming language and some of the benefits it offers. Last up, we’ll cover some basic functions and keywords of the language, along with some arithmetic operations.</p></details>
 
     ·Basic Python Syntax
         
@@ -24,7 +24,7 @@
 
     ·Loops
         
-        <p>In this module you'll explore the intricacies of loops in Python! You'll learn how to use while loops to continuously execute code, as well as how to identify infinite loop errors and how to fix them. You'll also learn to use for loops to iterate over data, and how to use the range() function with for loops. You'll also explore common errors when using for loops and how to fix them.</p>
+        In this module you'll explore the intricacies of loops in Python! You'll learn how to use while loops to continuously execute code, as well as how to identify infinite loop errors and how to fix them. You'll also learn to use for loops to iterate over data, and how to use the range() function with for loops. You'll also explore common errors when using for loops and how to fix them.
 
     ·Strings, List and Dictionaries
         
