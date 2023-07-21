@@ -6,7 +6,7 @@ You can also access a portion of a string, called a slice or a substring. This a
 
 This range is similar to the range() function we saw previously. It includes the first number, but goes to one less than the last number. For example:
 
-```
+```python
 >>> fruit = "Mangosteen"
 >>> fruit[1:4]
 'ang'
@@ -14,21 +14,21 @@ This range is similar to the range() function we saw previously. It includes the
 
 The slice includes the character at index 1, and excludes the character at index 4. You can also easily reference a substring at the start or end of the string by only specifying one end of the range. For example, only giving the end of the range:
 
-```
+```python
 >>> fruit[:5]
 'Mango'
 ```
 
 This gave us the characters from the start of the string through index 4, excluding index 5. On the other hand this example gives is the characters including index 5, through the end of the string:
 
-```
+```python
 >>> fruit[5:]
 'steen'
 ```
 
 You might have noticed that if you put both of those results together, you get the original string back!
 
-```
+```python
 >>> fruit[:5] + fruit[5:]
 'Mangosteen'
 ```
