@@ -70,7 +70,7 @@ def count_words(data_field):
 count_words("Catalog item 3523: Organic raw pumpkin seeds in shell")
 # Should print 9
 ``` 
-## Skill 2: Using list methods
+## **Skill 2:** Using **list** methods
 
 * Reverse the order of a list using the **.reverse()** method.
 
@@ -108,7 +108,7 @@ print(record_profit_years(recent_first, recent_last))
 # Should print [1989, 1992, 1997, 2001, 2006, 2011, 2018, 2022]
 ```
 
-## Skill 3: Using a list comprehension
+## **Skill 3:** Using a **list comprehension **
 
 * Use a list comprehension [ ] as a shortcut for creating a new list from a range.
 
@@ -153,7 +153,7 @@ print(odd_numbers(5, 15))
 # Should print [5, 7, 9, 11, 13]
 ```
 
-## Skill 4: Using **dictionary** methods
+## **Skill 4:** Using **dictionary** methods
 
 * Iterate through the keys and values of a dictionary.
 
