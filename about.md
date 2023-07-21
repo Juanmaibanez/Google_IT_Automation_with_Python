@@ -4,13 +4,13 @@
 
 **What you'll learn**
 
-    ·What Python is and why Python is relevant to automation
+    * What Python is and why Python is relevant to automation
 
-    ·How to write short Python scripts to perform automated actions
+    * How to write short Python scripts to perform automated actions
+    
+    * How to use the basic Python structures: strings, lists, and dictionaries
 
-    ·How to use the basic Python structures: strings, lists, and dictionaries
-
-    ·How to create your own Python objects
+    * How to create your own Python objects
 
 **Modules**
 
